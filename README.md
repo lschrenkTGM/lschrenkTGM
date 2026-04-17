@@ -19,14 +19,23 @@ I build things that work — even offline.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-### Featured Project
+### 🚀 Featured Project
 
-<a href="https://github.com/TGM-HIT/syt5-gek1051-mobile-application-codemonkeys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TGM-HIT&repo=syt5-gek1051-mobile-application-codemonkeys&theme=github_dark&hide_border=true" />
-</a>
+> **[🛒 Einkaufsliste](https://github.com/TGM-HIT/syt5-gek1051-mobile-application-codemonkeys)** — Offline-First Shopping List  
+> *Funktioniert komplett ohne Internet · Automatische Synchronisation · Daten gehören dir*
 
-**🛒 Einkaufsliste** — Offline-first Shopping List App mit Vue.js, PouchDB & CouchDB. Funktioniert komplett ohne Internet und synchronisiert automatisch bei Verbindung.
+**Tech Stack:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PouchDB](https://img.shields.io/badge/PouchDB-002B36?style=flat-square&logo=couchdb&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
+
+**Features:**
+- ⚡ Vollständig offline funktionsfähig
+- 🔄 Auto-Sync bei Verbindung
+- 📱 Mobile optimiert
+- 🏪 Shopping Lists verwalten
 
 ---
 
